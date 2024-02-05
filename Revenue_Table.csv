@@ -1,0 +1,1044 @@
+Movie_ID,Title,Gross_Revenue(million dollars)
+1,Family Plot,93.77
+2,Dog Day Afternoon,35.06
+3,The 39 Steps,44.67
+4,The Bourne Ultimatum,31.18
+5,The Elephant Man,93.62
+6,Umberto D.,83.82
+7,Doctor Zhivago,33.42
+8,Match Point,31.84
+9,Vegas Vacation,25.53
+10,Once,9.44
+11,The Terminal,9.42
+12,Author! Author!,34.3
+13,Black Narcissus,11.24
+14,Vanilla Sky,12.9
+15,Pulp Fiction,75.33
+16,The Night of the Iguana,19.72
+17,The 400 Blows,63.84
+18,Apollo 13,173.84
+19,Absence of Malice,10.6
+20,Swordfish,35.86
+21,Going My Way,2.69
+22,Big Daddy,0.09
+23,All the King's Men,6.74
+24,Argo,136.03
+25,Dial M for Murder,162.81
+26,Lethal Weapon,182.21
+27,The Bourne Identity,448.14
+28,The Godfather Part III,303
+29,The Magnificent Ambersons,16.38
+30,The Naked Spur,17.74
+31,Wife vs. Secretary,95.72
+32,Grand Hotel,40.26
+33,Guess Who's Coming to Dinner,381.01
+34,Less Than Zero,3.41
+35,M,2.98
+36,Mary Poppins,56.82
+37,Rain Man,176.76
+38,Swing Time,1.73
+39,The Accused,46.41
+40,The Departed,82.58
+41,The Great Train Robbery,102.52
+42,The Great Gatsby,40.96
+43,The Taking of Pelham One Two Three,13.3
+44,The Visitor,24.15
+45,"What's Up, Doc?",146.41
+46,12 Angry Men,18.34
+47,Another Year,3.21
+48,Batman Forever,5.79
+49,Being John Malkovich,106.95
+50,Bill & Ted's Excellent Adventure,9.74
+51,Double Indemnity,100.54
+52,Gangs of New York,60.97
+53,Grumpy Old Men,295.98
+54,Harry Potter and the Chamber of Secrets,32.75
+55,Harry Potter and the Deathly Hallows: Part 1,0.38
+56,Little Miss Sunshine,32.37
+57,That Thing You Do!,35.61
+58,The Hours,138.8
+59,The Seven Year Itch,96.96
+60,The Sunshine Boys,92.19
+61,Toy Story 2,415
+62,Three Colors: Red,171.24
+63,A Mighty Wind,9.19
+64,A Place in the Sun,9.17
+65,Alpha Dog,12.57
+66,Austin Powers: International Man of Mystery,760.51
+67,Full Metal Jacket,51.86
+68,Guys and Dolls,301.96
+69,"Planes, Trains & Automobiles",97.1
+70,The Godfather Part II,277.32
+71,The Great Ziegfeld,33.31
+72,The Longest Day,43.82
+73,The Man Who Came to Dinner,32.43
+74,Last Tango in Paris,293
+75,WALL·E,107.51
+76,Forgetting Sarah Marshall,63.17
+77,From Here to Eternity,18.59
+78,Patton,87.34
+79,Postcards from the Edge,12.8
+80,Raging Bull,22.91
+81,Sweet Smell of Success,3.08
+82,The Bishop's Wife,127.51
+83,The Boondock Saints,534.86
+84,The Three Faces of Eve,26.24
+85,Three Colors: White,110.52
+86,Up,23.22
+87,Vertigo,223.81
+88,25th Hour,53.61
+89,A Time to Kill,51.66
+90,Alien,130.16
+91,At Close Range,50.93
+92,Batman Begins,7.08
+93,Drive,17.11
+94,Girlfight,20.3
+95,Gypsy,292
+96,Bicycle Thieves,5.97
+97,The Red Circle,5.99
+98,Martha Marcy May Marlene,49.03
+99,Parenthood,4.45
+100,Public Enemies,206.45
+101,Quicksand,19.66
+102,Summertime,121.46
+103,Superman,52.9
+104,The 40-Year-Old Virgin,3.9
+105,The Aviator,227.47
+106,The Blues Brothers,11.9
+107,The Little Mermaid,4.6
+108,The Towering Inferno,40.22
+109,Willy Wonka & the Chocolate Factory,33.08
+110,A Midsummer Night's Sex Comedy,5.5
+111,Aladdin,7.22
+112,Alias Jesse James,15.23
+113,Ben-Hur,57.37
+114,Blast from the Past,128.51
+115,Dodsworth,103.37
+116,Duck Soup,37.63
+117,Fargo,5.54
+118,Lenny,13.76
+119,Liar Liar,5.46
+120,Life,59.89
+121,Meet Me in St. Louis,134.03
+122,A Fistful of Dollars,423.32
+123,The Delicate Delinquent,132.38
+124,The Descendants,124.74
+125,The FBI Story,10.14
+126,The Fountain,59.95
+127,The Hustler,17.61
+128,The Odd Couple,53.09
+129,The Outsiders,56.44
+130,Ugetsu,31.57
+131,A Family Affair,31.49
+132,Bandits,206.85
+133,Eastern Promises,1.71
+134,Glengarry Glen Ross,31.56
+135,Gunfight at the O.K. Corral,290.01
+136,Magnolia,23.09
+137,Sweetwater,50.82
+138,Take the Money and Run,24.79
+139,Taps,109.45
+140,The Man with the Golden Gun,12.71
+141,The Shop Around the Corner,7.36
+142,The Stratton Story,5.02
+143,A Very Long Engagement,70.51
+144,Cries & Whispers,119.52
+145,Wait Until Dark,209.22
+146,American Gangster,85.29
+147,Death to Smoochy,5.51
+148,Diner,114.33
+149,East of Eden,34.4
+150,Easter Parade,17.72
+151,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,51.68
+152,Funny People,26.78
+153,Hamlet,249.36
+154,Love Crazy,77.91
+155,Manhattan,3.83
+156,Marriage Italian Style,100.49
+157,The Absent Minded Professor,0.7
+158,The Accidental Tourist,102.61
+159,The Assassination of Richard Nixon,176.24
+160,The Bourne Supremacy,186.74
+161,The Great Race,261.44
+162,The Hudsucker Proxy,39.8
+163,The Late Show,24.01
+164,The Matrix,81
+165,The Nightmare Before Christmas,183.37
+166,The Squid and the Whale,77.87
+167,Three Colors: Blue,133.38
+168,Two for the Road,6.17
+169,2010: The Year We Make Contact,16.29
+170,A History of Violence,17.51
+171,American History X,135.65
+172,Back to the Future,138.61
+173,Back to the Future Part II,60.06
+174,Everything Is Illuminated,380.84
+175,Little Children,44.59
+176,Madeleine,93.93
+177,Magnum Force,36.91
+178,Once Upon a Time in Mexico,56.36
+179,Persepolis,305.41
+180,The Iceman Cometh,111.11
+181,The Lodger: A Story of the London Fog,377.85
+182,What's New Pussycat,214.95
+183,21 Grams,13.06
+184,A Woman Under the Influence,22.25
+185,Best in Show,26.2
+186,Dead Poets Society,8.36
+187,Pan's Labyrinth,15.85
+188,Funny Girl,77.81
+189,Groundhog Day,261.99
+190,Last of the Red Hot Lovers,3.66
+191,McCabe & Mrs. Miller,132.07
+192,Our Hospitality,96.4
+193,Paths of Glory,46.57
+194,Platoon,17.84
+195,Rat Race,104.45
+196,The Assassination of Jesse James by the Coward Robert Ford,121.66
+197,The Gold Rush,41.68
+198,The Lonely Guy,342.55
+199,The Natural,32.57
+200,8½,170.74
+201,A Few Good Men,56.57
+202,Across the Universe,58.2
+203,Bad Boys II,41.58
+204,Beginners,108.64
+205,Django Unchained,1.48
+206,Gods and Monsters,41.31
+207,Hamlet,317.58
+208,Hannah and Her Sisters,24.19
+209,Life Is Beautiful,131.14
+210,Le Samouraï,33.23
+211,Psycho,56.62
+212,Sullivan's Travels,18.49
+213,Sweeney Todd: The Demon Barber of Fleet Street,69.77
+214,The Lives of a Bengal Lancer,315.54
+215,The Lord of the Rings: The Two Towers,7.49
+216,The Rocky Horror Picture Show,52.36
+217,Traffic,76.63
+218,Uncle Buck,100.61
+219,Wise Blood,45.17
+220,Ali,32.53
+221,All of Me,15.07
+222,Beau Geste,18.72
+223,Donnie Darko,46.73
+224,Dumbo,125.6
+225,Get Shorty,1.52
+226,Ghost,187.71
+227,Harry Potter and the Deathly Hallows: Part 2,27.29
+228,Malcolm X,90.57
+229,Man on the Moon,166.24
+230,Manhattan Murder Mystery,25.54
+231,Pleasantville,7.06
+232,Quills,115.65
+233,Quiz Show,3.64
+234,Rashomon,68.54
+235,The Birdcage,17.87
+236,The Naked City,113.33
+237,The Naked Gun: From the Files of Police Squad!,182.62
+238,The Thing,57.26
+239,Trading Places,124.12
+240,The Bad Sleep Well,182.81
+241,What About Bob?,128.08
+242,What's Eating Gilbert Grape,157.3
+243,10,38.18
+244,Alice in Wonderland,130.1
+245,"All This, and Heaven Too",102.56
+246,Amadeus,106.89
+247,Any Given Sunday,75.53
+248,Atlantic City,206.04
+249,Batman Returns,22.86
+250,Bedazzled,163.48
+251,Bell Book and Candle,26.49
+252,Divorce American Style,30.65
+253,"Dude, Where's My Car?",14.88
+254,Easy Rider,55.69
+255,EuroTrip,37.03
+256,Get Him to the Greek,28.87
+257,Lolita,22.46
+258,Love Finds Andy Hardy,34.58
+259,The Asphalt Jungle,0.03
+260,The Big Chill,57.55
+261,The Dirty Dozen,10.66
+262,The Girl with the Dragon Tattoo,136.8
+263,The Grapes of Wrath,50.67
+264,The Greatest Show on Earth,28.97
+265,The Magnificent Seven,171.48
+266,The Set-Up,293.51
+267,The Sound of Music,81.3
+268,The Three Burials of Melquiades Estrada,126.94
+269,The Untouchables,60.65
+270,Toy Story,245.85
+271,A Bridge Too Far,162.8
+272,A Perfect World,16.31
+273,All Quiet on the Western Front,6.72
+274,Armageddon,201.57
+275,Due Date,30.08
+276,Erin Brockovich,10.68
+277,Escape from New York,1.65
+278,Fantasia,0.05
+279,Giant,6.39
+280,Great Expectations,2.81
+281,Hanna,21.55
+282,Little Big Man,7.27
+283,Ordinary People,37.56
+284,Phone Booth,40.57
+285,Pinocchio,38.97
+286,Red River,41.62
+287,The Adventures of Huckleberry Finn,17.5
+288,The Stooge,36.4
+289,The Talented Mr. Ripley,125.62
+290,The Thin Man,161.49
+291,The Thin Red Line,80.25
+292,The Town,176.48
+293,A Simple Plan,50.01
+294,All the King's Men,44.18
+295,Arthur,148.48
+296,At War with the Army,53.88
+297,Blackmail,26.4
+298,Divorce Italian Style,41.91
+299,Glory,138.43
+300,Goldfinger,28.01
+301,The Rules of the Game,57.6
+302,Diabolique,181.41
+303,Marathon Man,250.69
+304,Master and Commander: The Far Side of the World,25.08
+305,The Family Jewels,48.32
+306,The Great Escape,7.84
+307,"The Long, Hot Summer",229.09
+308,The Ox-Bow Incident,45.86
+309,The War of the Roses,659.33
+310,Unforgiven,36.43
+311,Vicky Cristina Barcelona,43.02
+312,A Scanner Darkly,108.77
+313,Blonde Venus,0.56
+314,Blood Diamond,3.8
+315,Election,24.61
+316,Executive Suite,0.4
+317,Gosford Park,4.41
+318,Grosse Pointe Blank,38.62
+319,M*A*S*H,12.78
+320,Marked Woman,95.32
+321,Meet John Doe,180.98
+322,Pineapple Express,56.12
+323,Superman II,4.51
+324,Sweet Bird of Youth,0.22
+325,Tango & Cash,25.81
+326,The Alamo,124.06
+327,The Band Wagon,60.24
+328,The Disorderly Orderly,78.65
+329,The Hangover,22.75
+330,Trafic,16.5
+331,A Star Is Born,108.39
+332,Baby Doll,65.81
+333,Barefoot in the Park,184.03
+334,Before the Devil Knows You're Dead,25.59
+335,Blood Work,75.6
+336,Dazed and Confused,39.39
+337,Deliverance,25.63
+338,Frankenstein,38.9
+339,Garden State,72.08
+340,Gilda,106.6
+341,Happiness,67.44
+342,The Trial,31.97
+343,Love Before Breakfast,2.12
+344,The Ten Commandments,23.34
+345,The Whole Nine Yards,32.7
+346,Touch of Evil,191.8
+347,True Lies,57.14
+348,A Single Man,72.22
+349,American Graffiti,50.24
+350,Big,30.16
+351,Dr. No,127.18
+352,Drums Along the Mohawk,5.89
+353,Forrest Gump,330.25
+354,Foul Play,52.7
+355,Live and Let Die,19.5
+356,Planet of the Apes,107.93
+357,Purple Noon,24.82
+358,The Good Shepherd,2.87
+359,The Lavender Hill Mob,422.78
+360,The Lovely Bones,119.94
+361,The Sand Pebbles,2.67
+362,The Scarlet Pimpernel,28.34
+363,Training Day,1.46
+364,Trapeze,4.04
+365,Tropic Thunder,146.28
+366,A League of Their Own,31.16
+367,Days of Wine and Roses,7.99
+368,Ed Wood,40.9
+369,Gentleman's Agreement,10.77
+370,Gone Baby Gone,70.91
+371,Gone with the Wind,70.17
+372,Love in the Afternoon,11.29
+373,Pat and Mike,77.32
+374,The End of the Affair,158.35
+375,The Falcon and the Snowman,183.88
+376,The Master,75.08
+377,The Navigator,40.16
+378,The Passionate Friends,22.95
+379,The Russians Are Coming the Russians Are Coming,32.42
+380,The Westerner,56.51
+381,Trainspotting,1.32
+382,Troy,12.28
+383,Watch on the Rhine,9.17
+384,A Clockwork Orange,141.34
+385,A Fish Called Wanda,107.53
+386,A Man for All Seasons,43.44
+387,Ace Ventura: When Nature Calls,217.35
+388,Bambi,117.73
+389,Barry Lyndon,162.83
+390,Ghostbusters,10.73
+391,Love & Other Drugs,48.17
+392,Rachel Getting Married,2.83
+393,The Birth of a Nation,62.55
+394,The Man Who Knew Too Much,50.75
+395,The Night of the Hunter,21.71
+396,Tokyo Story,101.16
+397,Wag the Dog,121.7
+398,Wedding Crashers,76.25
+399,All the President's Men,22.17
+400,Ball of Fire,6.15
+401,Basic Instinct,218.97
+402,Blood Simple,57.5
+403,Take Me Out to the Ball Game,204.84
+404,Tequila Sunrise,113.5
+405,The Diary of Anne Frank,35.18
+406,The Entertainer,41.9
+407,The Searchers,130.74
+408,The Time Machine,45.36
+409,Walkabout,63.71
+410,Austin Powers: The Spy Who Shagged Me,52.1
+411,Babel,87.73
+412,Downfall,2.74
+413,Design for Living,103.74
+414,Rififi,56.36
+415,Gentlemen Prefer Blondes,217.63
+416,Go West,46.84
+417,Matchstick Men,5.08
+418,"Me, Myself & Irene",61.28
+419,Pickpocket,37.96
+420,Picnic,178.41
+421,Plaza Suite,15.26
+422,Radio Days,15.45
+423,"Synecdoche, New York",135.27
+424,The Fly,66.67
+425,The Graduate,122.01
+426,Torn Curtain,119.39
+427,Awakenings,118.5
+428,Bananas,251.19
+429,Beetlejuice,40.49
+430,Blazing Saddles,70
+431,Dead Man Walking,95.86
+432,Dick Tracy,27.55
+433,Dogma,106.59
+434,Eternal Sunshine of the Spotless Mind,64.43
+435,Get Carter,112.49
+436,Ghostbusters II,26.83
+437,Amélie,31.91
+438,Lost in Translation,49.8
+439,Out of Sight,100.05
+440,Swiss Family Robinson,63.41
+441,Trial and Error,18.1
+442,The Life Aquatic with Steve Zissou,111.54
+443,The Terminator,86.89
+444,Two-Minute Warning,66.76
+445,We're Not Dressing,92.82
+446,A Dispatch from Reuters,63.49
+447,Another Woman,1.56
+448,Batman,73.71
+449,Becket,114.97
+450,Desperado,83.01
+451,Happy Gilmore,1.11
+452,Primary Colors,178.8
+453,Syriana,41.29
+454,Teenage Mutant Ninja Turtles,32.63
+455,Castle in the Sky,32.07
+456,The Hunchback of Notre Dame,48.09
+457,The Ides of March,7.63
+458,The Man Who Would Be King,78.76
+459,The Talk of the Town,10.01
+460,The Wild Bunch,1.11
+461,True Grit,19.65
+462,Weekend,156.45
+463,What Ever Happened to Baby Jane?,64
+464,Who Done It?,45.66
+465,Elmer Gantry,156.65
+466,From Russia with Love,46.36
+467,Gladiator,123.92
+468,Lean on Me,12.4
+469,Leaving Las Vegas,65.21
+470,Peter Pan,49.53
+471,Pickup on South Street,59.74
+472,Predator,14.79
+473,Prince of the City,22.85
+474,The Hurricane,43.98
+475,The Offence,30.86
+476,The Ten Commandments,76.27
+477,The Usual Suspects,57.92
+478,The Verdict,25.41
+479,W.,43.85
+480,As Good as It Gets,2.35
+481,Billy Madison,8.55
+482,Escape from Alcatraz,70.14
+483,Grease,40.08
+484,Life of Brian,38.75
+485,Phantom of the Paradise,138.53
+486,The Big Sleep,52.29
+487,The Errand Boy,40.46
+488,The General,38.6
+489,The Truman Show,39.25
+490,Top Gun,179.8
+491,Avatar,210.61
+492,Blow Out,9.93
+493,Blue Caprice,38.8
+494,Falling Down,50.61
+495,Opening Night,87.1
+496,Rebecca,127.87
+497,The Bachelor and the Bobby-Soxer,45.88
+498,The Big Noise,98.47
+499,The Doors,17.1
+500,The Outlaw Josey Wales,10.63
+501,Walk on the Wild Side,23.83
+502,West Side Story,68.71
+503,2001: A Space Odyssey,40.2
+504,Airport,36.4
+505,Alice Doesn't Live Here Anymore,51.97
+506,Beauty and the Beast,234.76
+507,Bend of the River,2.15
+508,George Washington Slept Here,238.63
+509,Once Upon a Time in America,5.32
+510,Persona,34.9
+511,Rebel Without a Cause,76.57
+512,The Life of Emile Zola,5.72
+513,The Man in the White Suit,47.95
+514,The Notebook,6.14
+515,The Sting,38.4
+516,The Trouble with Harry,4.74
+517,A Bug's Life,20.61
+518,Raising Arizona,63.5
+519,Take Shelter,108.42
+520,The Addams Family,56.2
+521,The Maltese Falcon,14.93
+522,The More the Merrier,25.6
+523,The Right Stuff,21.5
+524,Toy Story 3,90.4
+525,Up in the Air,2.12
+526,Who's Afraid of Virginia Woolf?,11.8
+527,A Hard Day's Night,9.08
+528,Atonement,13.11
+529,Being There,32.87
+530,Desperate Hours,14.1
+531,Dracula,435.11
+532,Elizabeth,27.09
+533,Eyes Wide Shut,47.21
+534,Funny Face,52.77
+535,Mean Streets,14
+536,Rear Window,125.05
+537,The Hobbit: An Unexpected Journey,2.5
+538,The Strange Love of Martha Ivers,13.78
+539,The Tender Trap,54
+540,The Wild One,177.2
+541,A Shot in the Dark,40.72
+542,Arsenic and Old Lace,95.46
+543,Beverly Hills Cop,13.75
+544,Black Swan,24.06
+545,"East Side, West Side",25.24
+546,Harry Potter and the Sorcerer's Stone,31.67
+547,Pirates of the Caribbean: Dead Man's Chest,8.12
+548,Primal Fear,248.16
+549,Quick Change,40.38
+550,The Fabulous Baker Boys,63.46
+551,Absolute Power,83.4
+552,Manhattan Melodrama,4.31
+553,Only Angels Have Wings,54.8
+554,Pirates of the Caribbean: The Curse of the Black Pearl,69.85
+555,Pretty Woman,23.38
+556,Super Troopers,108.19
+557,The Artist,57.23
+558,The Scout,44.02
+559,And Justice for All,74.87
+560,After Hours,78.9
+561,Apocalypse Now,83.47
+562,Batman: The Movie,30.18
+563,Blown Away,16.42
+564,E.T. the Extra-Terrestrial,43
+565,Monsieur Hulot's Holiday,20.05
+566,Love Story,45.7
+567,The Best Years of Our Lives,51.72
+568,The Great Mouse Detective,38.2
+569,The Green Mile,73.69
+570,The Man Who Wasn't There,76.66
+571,Fort Apache,45
+572,GoldenEye,188.76
+573,Harold and Maude,81.64
+574,Marvin's Room,35
+575,Sunset Blvd.,134.22
+576,The Awful Truth,19
+577,The Deer Hunter,48.98
+578,The English Patient,13.03
+579,A Beautiful Mind,50.8
+580,Amistad,39.2
+581,The Far Country,35.4
+582,The Fox and the Hound,102
+583,The Shining,46.8
+584,Alfie,70.6
+585,Lincoln,25
+586,Léon: The Professional,21.71
+587,Ray,117.24
+588,Hard Eight,28.26
+589,The Misfits,31.8
+590,Dirty Harry,50
+591,Four Weddings and a Funeral,12.48
+592,One Flew Over the Cuckoo's Nest,112
+593,The Return of the Pink Panther,41.83
+594,The Ring,139.88
+595,The Unbearable Lightness of Being,41.51
+596,A Serious Man,13.34
+597,Adam's Rib,18.6
+598,Belle de Jour,119.5
+599,Hang 'Em High,1.26
+600,The Wages of Fear,8.43
+601,Pat Garrett & Billy the Kid,0.16
+602,The Birds,4.42
+603,The Flight of the Phoenix,57.3
+604,The Gauntlet,6.74
+605,The Lost World: Jurassic Park,20.97
+606,The Sixth Sense,7.5
+607,The Sound Barrier,2.49
+608,The Sugarland Express,116
+609,White Men Can't Jump,86.3
+610,All About Eve,115
+611,Dumb and Dumber,25
+612,Harry Potter and the Half-Blood Prince,15.7
+613,Day for Night,0.02
+614,Like Crazy,35.38
+615,Long Day's Journey Into Night,4.56
+616,Mallrats,3.13
+617,Out of Africa,53.27
+618,Out of the Past,0.95
+619,Ratatouille,32.06
+620,The Hunt for Red October,3.19
+621,The Lion King,0.96
+622,The Silence of the Lambs,159.6
+623,127 Hours,6.1
+624,Death Proof,7.06
+625,French Connection II,12.6
+626,Lara Croft: Tomb Raider,0.18
+627,The Best Exotic Marigold Hotel,0.12
+628,The Firm,36.73
+629,The Fisher King,134.97
+630,The Nun's Story,84.56
+631,Tunes of Glory,36.14
+632,V for Vendetta,1.74
+633,Wayne's World,10.47
+634,$,4.4
+635,A Christmas Story,6.21
+636,Bad Boys,11.8
+637,Destination Tokyo,35.9
+638,Gandhi,0.39
+639,Gettysburg,0.7
+640,Major League,8.2
+641,Philadelphia,1.67
+642,The Facts of Life,15.63
+643,The Ice Storm,29.13
+644,The Millionairess,1.5
+645,Volver,0.02
+646,Weird Science,4
+647,Ace Ventura: Pet Detective,100.49
+648,Faces,19.4
+649,Lawrence of Arabia,0.37
+650,Letters from Iwo Jima,31.56
+651,Little Shop of Horrors,106.4
+652,Run Lola Run,81.6
+653,Panic Room,61.7
+654,The Miracle Worker,4.34
+655,The Treasure of the Sierra Madre,2.2
+656,Black Hawk Down,31.9
+657,Driving Miss Daisy,41.73
+658,Marty,44.79
+659,Swingers,0.72
+660,The Third Man,12.06
+661,The Tree of Life,12.6
+662,Who Framed Roger Rabbit,0.08
+663,1776,56.95
+664,Frost/Nixon,58.5
+665,Peyton Place,33.4
+666,The Lemon Drop Kid,22.28
+667,The Mighty Ducks,44.53
+668,Bad Santa,19.99
+669,Battling Butler,0.03
+670,The Seventh Seal,12
+671,"Good Morning, Vietnam",56.7
+672,Laurel Canyon,0.04
+673,The Devil's Disciple,45.3
+674,The French Connection,104.95
+675,The Guns of Navarone,141.84
+676,The Old Maid,0.11
+677,The Way We Were,42.43
+678,True Romance,7.63
+679,Videodrome,17.55
+680,A Guide for the Married Man,28.35
+681,Ace in the Hole,18.87
+682,The Organization,19.54
+683,The Royal Tenenbaums,21.69
+684,Die Hard,111.72
+685,Harper,13.08
+686,Panic in the Streets,15
+687,The Big Combo,15.26
+688,The General Died at Dawn,25.33
+689,The Shawshank Redemption,163.21
+690,Watchmen,18.82
+691,A Face in the Crowd,13.78
+692,A Night at the Opera,12.37
+693,Dodgeball: A True Underdog Story,0.28
+694,"Girl, Interrupted",51.08
+695,Macbeth,102.27
+696,Papillon,14.5
+697,The Mask,9.43
+698,3:10 to Yuma,0.05
+699,Frenzy,24.8
+700,The American,11.4
+701,The Game,12.1
+702,The Men Who Stare at Goats,7.63
+703,The New World,10.88
+704,The Social Network,22.18
+705,The Wedding Singer,37.6
+706,Dodge City,16.07
+707,Goodfellas,13.01
+708,Laura,44.82
+709,Little Caesar,9.25
+710,The Lion in Winter,39.1
+711,The Man Who Knew Too Much,5.45
+712,Wall Street,4.05
+713,One Hundred and One Dalmatians,144.88
+714,Taxi Driver,25.38
+715,The Godfather,28.9
+716,The Great Dictator,8.28
+717,The Man Who Shot Liberty Valance,8.94
+718,Walk the Line,43.66
+719,Duel in the Sun,11.34
+720,La Dolce Vita,19.52
+721,Places in the Heart,32
+722,Suspicion,40.36
+723,Thank You for Smoking,17.26
+724,That Uncertain Feeling,18.6
+725,The Lookout,4.91
+726,Witness,0.34
+727,American Beauty,11.9
+728,Beat the Devil,74.7
+729,Raiders of the Lost Ark,12.54
+730,The Devil Wears Prada,5.01
+731,The Meaning of Life,12.8
+732,Total Recall,2.24
+733,United 93,3.2
+734,10 Things I Hate About You,4.36
+735,"Good Night, and Good Luck.",11.75
+736,Passage to Marseille,25.6
+737,The Bad and the Beautiful,44.91
+738,The Defiant Ones,7
+739,Around the World in 80 Days,42
+740,Harry Potter and the Order of the Phoenix,13
+741,The Heiress,21.3
+742,The Lord of the Rings: The Return of the King,10.25
+743,The Spirit of St. Louis,93.74
+744,Donnie Brasco,0.06
+745,Good Will Hunting,13
+746,The Diving Bell and the Butterfly,1.09
+747,The Manchurian Candidate,0.65
+748,The Sandlot,12
+749,The Waterboy,8.75
+750,A Raisin in the Sun,14.93
+751,The Last Laugh,0.01
+752,Punch-Drunk Love,36.76
+753,The Bellboy,21.75
+754,French Kiss,30.5
+755,Fury,12
+756,Paris When It Sizzles,87.4
+757,Tucker: The Man and His Dream,0.01
+758,Harry Potter and the Goblet of Fire,9.45
+759,The Getaway,36
+760,12 Monkeys,0.07
+761,A River Runs Through It,8
+762,A Streetcar Named Desire,3.97
+763,Adaptation.,1.07
+764,Almost Famous,4.5
+765,Terms of Endearment,0.54
+766,The Lost Weekend,0.01
+767,"Aguirre, the Wrath of God",0.01
+768,Enter the Dragon,8.84
+769,Private Benjamin,0.1
+770,The Stranger,0.45
+771,Dreamgirls,9.03
+772,La strada,0.33
+773,The Sword in the Stone,5.01
+774,Doubt,20.41
+775,The Actress,23.65
+776,The African Queen,6.54
+777,The Nutty Professor,8.33
+778,The Party,5
+779,The Long Goodbye,9.46
+780,Do the Right Thing,5.72
+781,Gigi,16.3
+782,Lars and the Real Girl,4.36
+783,Man on Fire,7.57
+784,The Adventures of Robin Hood,1.64
+785,Far from Heaven,17.8
+786,Back to the Future Part III,102.8
+787,Gambit,0.66
+788,The Muppet Movie,1.64
+789,When Harry Met Sally...,11.8
+790,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1.6
+791,Superbad,4.5
+792,The Lord of the Rings: The Fellowship of the Ring,2.11
+793,Blade Runner,9.17
+794,Edward Scissorhands,76.41
+795,Fast Times at Ridgemont High,3.48
+796,Harry Potter and the Prisoner of Azkaban,0.3
+797,For a Few Dollars More,84.25
+798,Queen Christina,4.36
+799,The Fugitive,0.06
+800,The Fugitive Kind,0.29
+801,The Sea of Grass,0.2
+802,Don't Bother to Knock,1
+803,"Duck, You Sucker!",198.68
+804,The Goodbye Girl,3.27
+805,The Thomas Crown Affair,2.08
+806,What Women Want,0.76
+807,Terminator 2: Judgment Day,3.98
+808,White Heat,4.66
+809,A Knight's Tale,2.54
+810,American Psycho,0.87
+811,Top Hat,3.88
+812,Playtime,0.77
+813,Logan's Run,0.03
+814,The Out of Towners,1.01
+815,Airplane!,3.27
+816,American Pie,0.91
+817,The Big Lebowski,3.92
+818,Barton Fink,0.7
+819,Fail Safe,1.61
+820,The Fighter,1.03
+821,The Fortune Cookie,5.45
+822,Deception,0.09
+823,The Man with the Golden Arm,1.48
+824,Only Two Can Play,1.17
+825,The Spy Who Loved Me,5.36
+826,The Heart Is a Lonely Hunter,5.45
+827,The Apartment,10
+828,Seven Brides for Seven Brothers,0.98
+829,Se7en,0.21
+830,In the Name of the Father,0.41
+831,JFK,10
+832,Inception,4.36
+833,Moby Dick,0.16
+834,Sideways,184.93
+835,Intolerable Cruelty,0.25
+836,Moscow on the Hudson,9.6
+837,Nashville,1.19
+838,School of Rock,16.4
+839,Mr. & Mrs. Smith,13.5
+840,Sleeping Beauty,7
+841,Network,10.46
+842,Singin' in the Rain,63.72
+843,Mogambo,0.33
+844,Moonrise Kingdom,6
+845,"Mystery, Alaska",3.6
+846,Somewhere in the Night,7.63
+847,Shame,8.82
+848,Serpico,20
+849,No Time for Sergeants,9.6
+850,Scrooged,9.4
+851,Seven Chances,0.27
+852,Spartacus,1.4
+853,Mister 880,21.2
+854,Mister Roberts,10.4
+855,Nine,21.91
+856,Schizopolis,7.4
+857,Husbands and Wives,13.99
+858,National Treasure,13.28
+859,No Country for Old Men,11
+860,Seven Samurai,51.6
+861,Silver Linings Playbook,25
+862,Speed,13.9
+863,Nick of Time,12.32
+864,Slap Shot,30
+865,Wild Strawberries,8.72
+866,Houseboat,46.5
+867,How Green Was My Valley,10
+868,In the Company of Men,25.25
+869,Independence Day,46.3
+870,Jane Eyre,5
+871,Mr. Lucky,72
+872,Seabiscuit,9.27
+873,Husbands,6.1
+874,I Was a Male War Bride,24.38
+875,9 to 5,16.8
+876,Nixon,22.8
+877,How to Marry a Millionaire,0.78
+878,Runaway Jury,30.85
+879,Jeremiah Johnson,17.44
+880,Insomnia,47.74
+881,Ryan's Daughter,2.33
+882,Sabrina,9
+883,Scoop,29.8
+884,Sherlock Jr.,2.91
+885,Mr. Deeds Goes to Town,0.07
+886,Inside Man,260
+887,Monkey Business,1.23
+888,My Darling Clementine,14.82
+889,Sergeant York,49.41
+890,My Man Godfrey,16.4
+891,Rushmore,94.21
+892,Shane,28
+893,Solaris,322.74
+894,Jesse James,106.26
+895,Vacation,22.23
+896,Napoleon Dynamite,103.29
+897,Some Like It Hot,290.48
+898,Mr. Holland's Opus,5.25
+899,Mystic River,14.91
+900,Ninotchka,119.29
+901,Song of the South,85.3
+902,Mr. Smith Goes to Washington,20.12
+903,Mystery Men,23.6
+904,Sita Sings the Blues,30.04
+905,My Favorite Wife,61.4
+906,Rosemary's Baby,2.49
+907,San Francisco,45.6
+908,Something Wild,309.13
+909,Spaceballs,67.64
+910,It,0.5
+911,Monster,25.1
+912,Jaws,17.04
+913,Snow White and the Seven Dwarfs,37.8
+914,Hoosiers,28.61
+915,Naked Lunch,6.73
+916,Silver Streak,8.36
+917,In the Line of Fire,7.39
+918,Monsieur Verdoux,80.64
+919,Skyfall,38.12
+920,Mississippi Burning,34.6
+921,Scarface,60.33
+922,"Honey, I Shrunk the Kids",130.72
+923,The Leopard,197.17
+924,Mrs. Doubtfire,14.74
+925,My Dinner with Andre,71.32
+926,Saboteur,20.78
+927,Secret Honor,24.74
+928,Home Alone,285.76
+929,Hook,119.65
+930,Inglourious Basterds,70.41
+931,Irma la Douce,32.48
+932,Murder on the Orient Express,2.54
+933,Spirited Away,2.74
+934,Home Alone 2: Lost in New York,173.59
+935,How to Steal a Million,10.56
+936,Night and Day,5.1
+937,Saturday Night Fever,63.9
+938,Big Deal on Madonna Street,102.31
+939,I'm Not There,25.01
+940,Ironweed,402.45
+941,Moulin Rouge!,219.2
+942,Murder by Death,1.77
+943,Save the Tiger,96.9
+944,"Sex, Lies, and Videotape",6.11
+945,Shine,126.53
+946,My Forbidden Past,50.28
+947,Sleeper,121.25
+948,Moonstruck,82.57
+949,My Week with Marilyn,8.17
+950,National Lampoon's Christmas Vacation,13.56
+951,Scarface,100.13
+952,Schindler's List,43.18
+953,"The Good, the Bad and the Ugly",306.17
+954,Interiors,153.95
+955,Confidential Report,20.1
+956,Saving Private Ryan,0.01
+957,Sex and the Single Girl,35.81
+958,Ship of Fools,24.48
+959,I Heart Huckabees,2.86
+960,Inherit the Wind,39.67
+961,Jezebel,64.62
+962,Rumble Fish,17.11
+963,Sabotage,216.54
+964,Sense and Sensibility,100.32
+965,Sleepless in Seattle,37.02
+966,Mulholland Drive,29.76
+967,Multiplicity,8.89
+968,Night and the City,10.82
+969,Some Came Running,474.54
+970,House of Sand and Fog,260.04
+971,Never Let Me Go,45.51
+972,Shutter Island,30.33
+973,Hud,40.31
+974,Who's That Knocking at My Door,35.93
+975,Into the Wild,27.09
+976,Moneyball,289.92
+977,"Monsters, Inc.",57.39
+978,Mr. & Mrs. Smith,7.22
+979,Niagara,183.42
+980,Scent of a Woman,10.06
+981,Snatch,0.03
+982,In Bruges,67.36
+983,My Fair Lady,21.01
+984,Sling Blade,403.71
+985,Hotel Rwanda,13.01
+986,In the Bedroom,35.33
+987,It Happened One Night,70.1
+988,My Uncle,34.47
+989,Munich,90.14
+990,Nighthawks,75.59
+991,9½ Weeks,0.71
+992,Royal Wedding,49.44
+993,Say Anything,81.26
+994,Scarlet Street,120.28
+995,Sin City,124.73
+996,Sophie's Choice,33.83
+997,Horse Feathers,23.53
+998,Hugo,12.78
+999,It Happened on Fifth Avenue,66.21
+1000,Mutiny on the Bounty,44.54
+1001,My Favorite Year,173.01
+1002,Night Shift,125.54
+1003,Shadows,71.5
+1004,Slumdog Millionaire,373.59
+1005,J. Edgar,218.08
+1006,Jackie Brown,4.24
+1007,Monty Python and the Holy Grail,186.34
+1008,Mr. Blandings Builds His Dream House,47.4
+1009,Shakespeare in Love,74.1
+1010,Hollywoodland,14.42
+1011,Impact,88.51
+1012,Natural Born Killers,17.51
+1013,Scarecrow,10.53
+1014,Something's Gotta Give,40.14
+1015,Hunger,4.02
+1016,In This Our Life,18.35
+1017,Iron Man,143.5
+1018,Jerry Maguire,148.73
+1019,Joe Dirt,10.3
+1020,National Lampoon's Van Wilder,74.28
+1021,Night Moves,117.15
+1022,How the West Was Won,0.15
+1023,I Am Sam,7.76
+1024,In the Heat of the Night,318.41
+1025,Short Cuts,141.32
+1026,500 Days of Summer,32.39
+1027,Imitation of Life,120.54
+1028,Naked,19.68
+1029,"New York, New York",23.99
+1030,"Yesterday, Today and Tomorrow",292.58
+1031,My Left Foot,2.43
+1032,Shadow of a Doubt,128.01
+1033,How the Grinch Stole Christmas,73.86
+1034,Indiana Jones and the Last Crusade,37.31
+1035,Inside Daisy Clover,11.24
+1036,Modern Times,75.61
+1037,Mrs. Miniver,14.6
+1038,Separate Tables,4
+1039,It's a Wonderful Life,15.03
+1040,Monkey Business,45.51
+1041,Shadows and Fog,132.09
+1042,Shampoo,304.36
+1043,It's a Mad Mad Mad Mad World,1.03
